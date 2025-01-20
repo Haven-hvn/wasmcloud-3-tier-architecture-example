@@ -1,0 +1,2 @@
+cargo:rustc-link-lib=wit_bindgen_cabi_realloc0_33_0
+cargo:rustc-link-search=native=/home/user/wasmCloud/target/wasm32-wasip2/release/build/wit-bindgen-rt-92c14d3773a18d63/out
